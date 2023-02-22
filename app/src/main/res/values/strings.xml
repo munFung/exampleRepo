@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Practical Project</string>
+    <string name="TxtNumber">Roll your dice</string>
+    <string name="txtNum">Roll your Dice twice!!</string>
 </resources>
