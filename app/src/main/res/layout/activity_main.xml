@@ -24,4 +24,12 @@
         android:layout_gravity="center_horizontal"
         android:text="Button" />
 
+    <ImageView
+        android:id="@+id/dice_image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/empty_dice"
+        tools:src="@drawable/dice_1"/>
+
+
 </LinearLayout>
